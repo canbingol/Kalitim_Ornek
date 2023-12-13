@@ -1,0 +1,7 @@
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\bin\Debug\Kalıtım.exe.config
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\bin\Debug\Kalıtım.exe
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\bin\Debug\Kalıtım.pdb
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\obj\Debug\Kalıtım.csproj.AssemblyReference.cache
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\obj\Debug\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\obj\Debug\Kalıtım.exe
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\Kalıtım\Kalıtım\obj\Debug\Kalıtım.pdb
